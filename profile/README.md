@@ -1,4 +1,4 @@
 # 个人说明书
 
-![IDphoto](/asset/img/IDphoto.JPEG)
+![IDphoto](/assets/img/IDphoto.JPEG)
 
