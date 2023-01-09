@@ -9,8 +9,7 @@
 对一切都感到好奇
 
 ## 关于我的个人     
-###交个朋友     
-
+### 交个朋友     
 ![IDphoto](/profile/assets/img/infp.PNG)      
 ![IDphoto](/profile/assets/img/newjeans.JPEG)           
 ![IDphoto](/profile/assets/img/RedDeadRedemption2.JPEG)           
